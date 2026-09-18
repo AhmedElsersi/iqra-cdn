@@ -2,5 +2,26 @@
   "schemaVersion": 1,
   "baseUrl": "https://pub-f2046e05789e4bd5889880fb0c6d3168.r2.dev",
   "mirrors": [],
-  "reciters": []
+  "reciters": [
+    {
+      "id": "ahmed_khalil_shaheen",
+      "nameAr": "أحمد خليل شاهين",
+      "nameEn": "Ahmed Khalil Shaheen",
+      "riwayah": "",
+      "bitrate": 64,
+      "version": "1",
+      "audioPath": "audio/{id}/{bitrate}/{s3}{a3}.mp3",
+      "packPath": "packs/{id}/{bitrate}/{s3}.zip",
+      "totalBytes": 177218,
+      "surahs": [
+        {
+          "n": 103,
+          "ayahs": 3,
+          "bytes": 177218,
+          "sha256": "6268791e4c578f91404b8f9c15ca8062b0c2f93ef98941dd5470b8c99e50f08b",
+          "hasBasmala": true
+        }
+      ]
+    }
+  ]
 }
