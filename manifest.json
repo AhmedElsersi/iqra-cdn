@@ -12,7 +12,7 @@
       "version": "1",
       "audioPath": "audio/{id}/{bitrate}/{s3}{a3}.mp3",
       "packPath": "packs/{id}/{bitrate}/{s3}.zip",
-      "totalBytes": 800855871,
+      "totalBytes": 798132065,
       "imagePath": "images/ahmed_khalil_shaheen.jpeg",
       "surahs": [
         {
@@ -237,13 +237,6 @@
           "ayahs": 30,
           "bytes": 3529828,
           "sha256": "41f7e7d91d0a62a5fde0aec6bda7168ae5f171a54a5a609ee6a4decc2144e644",
-          "hasBasmala": true
-        },
-        {
-          "n": 33,
-          "ayahs": 73,
-          "bytes": 2723806,
-          "sha256": "29ac36a3644bd76efda4bfd30b0877a049685f674971db1739bc538c2a7c6d41",
           "hasBasmala": true
         },
         {
