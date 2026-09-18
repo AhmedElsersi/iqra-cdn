@@ -12,13 +12,48 @@
       "version": "1",
       "audioPath": "audio/{id}/{bitrate}/{s3}{a3}.mp3",
       "packPath": "packs/{id}/{bitrate}/{s3}.zip",
-      "totalBytes": 177218,
+      "totalBytes": 11575231,
       "surahs": [
+        {
+          "n": 1,
+          "ayahs": 7,
+          "bytes": 571930,
+          "sha256": "da61bfe2e1c2f7601a855483b88357181ddcf17d8e27114164aa1cabbcaa43dd",
+          "hasBasmala": false
+        },
+        {
+          "n": 58,
+          "ayahs": 22,
+          "bytes": 9689161,
+          "sha256": "d964ef896439d8db7adae0a4f9a288e56ca89164e42a1f5b5cf016289b15491e",
+          "hasBasmala": true
+        },
         {
           "n": 103,
           "ayahs": 3,
           "bytes": 177218,
           "sha256": "6268791e4c578f91404b8f9c15ca8062b0c2f93ef98941dd5470b8c99e50f08b",
+          "hasBasmala": true
+        },
+        {
+          "n": 112,
+          "ayahs": 4,
+          "bytes": 268632,
+          "sha256": "1403c4923249342182772a90758a3ee28092bee70279d8353bd6a35207af8925",
+          "hasBasmala": true
+        },
+        {
+          "n": 113,
+          "ayahs": 5,
+          "bytes": 415058,
+          "sha256": "3eaf888611c1afd2c28a81640c4c1db5f8fcbbfaa475adf6e79d349093a2a2b3",
+          "hasBasmala": true
+        },
+        {
+          "n": 114,
+          "ayahs": 6,
+          "bytes": 453232,
+          "sha256": "405a1c8c31a2dc155c7619e33c4fa68731091194b96164df6b2145410781d161",
           "hasBasmala": true
         }
       ]
