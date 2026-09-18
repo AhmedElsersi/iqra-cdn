@@ -12,7 +12,7 @@
       "version": "1",
       "audioPath": "audio/{id}/{bitrate}/{s3}{a3}.mp3",
       "packPath": "packs/{id}/{bitrate}/{s3}.zip",
-      "totalBytes": 11575231,
+      "totalBytes": 21542127,
       "surahs": [
         {
           "n": 1,
@@ -29,10 +29,87 @@
           "hasBasmala": true
         },
         {
+          "n": 75,
+          "ayahs": 40,
+          "bytes": 1778989,
+          "sha256": "e31aa17b469d604a5926a7d68d96a6cded5bdbf4ebf5ad5df1d655e9746a2bd2",
+          "hasBasmala": true
+        },
+        {
+          "n": 77,
+          "ayahs": 50,
+          "bytes": 2205426,
+          "sha256": "b9b579f094cd07316802ee3a2f375add3fdffb01fe18fd539d9626daf0236a13",
+          "hasBasmala": true
+        },
+        {
+          "n": 82,
+          "ayahs": 19,
+          "bytes": 915798,
+          "sha256": "672b87a2d8fece07c0052618efe4fc92dedd981de91bc8e6e79803c61724d93f",
+          "hasBasmala": true
+        },
+        {
+          "n": 84,
+          "ayahs": 25,
+          "bytes": 1164514,
+          "sha256": "a87542168bf922b890758f6dd6500d4241aaec39701f82aec5f5c2a35e2ff50e",
+          "hasBasmala": true
+        },
+        {
+          "n": 90,
+          "ayahs": 20,
+          "bytes": 902081,
+          "sha256": "9f6060f4fd22b4641f5585e91a393f490d37f9a7447d7eff36fb70519525154d",
+          "hasBasmala": true
+        },
+        {
+          "n": 91,
+          "ayahs": 15,
+          "bytes": 703178,
+          "sha256": "694485f02e364c8bed05c578082dca7679db89ad56d8e42645abb113da43cbab",
+          "hasBasmala": true
+        },
+        {
+          "n": 92,
+          "ayahs": 21,
+          "bytes": 914485,
+          "sha256": "dde9fd4d3caf8db95c5a9a3cab324bc249fadafa52ba74e7d171cb3a01e2c89b",
+          "hasBasmala": true
+        },
+        {
+          "n": 95,
+          "ayahs": 8,
+          "bytes": 408413,
+          "sha256": "343900a34ff1fcef48e35bf1724d66b0a52e46ff365ad577cf3c556c29f8700e",
+          "hasBasmala": true
+        },
+        {
+          "n": 97,
+          "ayahs": 5,
+          "bytes": 336299,
+          "sha256": "eac16ce3101a1a9b4b3f11c9510301d74ea2e69f5f1b6b4fb64ba14a2527313d",
+          "hasBasmala": true
+        },
+        {
+          "n": 101,
+          "ayahs": 11,
+          "bytes": 413442,
+          "sha256": "e67098b2e6c4d5cc40df47afb8e5375e09d4dbf42781ab8caf0813855f4a7ee3",
+          "hasBasmala": true
+        },
+        {
           "n": 103,
           "ayahs": 3,
           "bytes": 177218,
           "sha256": "6268791e4c578f91404b8f9c15ca8062b0c2f93ef98941dd5470b8c99e50f08b",
+          "hasBasmala": true
+        },
+        {
+          "n": 106,
+          "ayahs": 4,
+          "bytes": 224271,
+          "sha256": "5b0bc4d822dfecdc9f4c27643645bc9ffa0868ac13026dc0d829491033994a47",
           "hasBasmala": true
         },
         {
