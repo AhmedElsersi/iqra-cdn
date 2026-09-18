@@ -12,7 +12,7 @@
       "version": "1",
       "audioPath": "audio/{id}/{bitrate}/{s3}{a3}.mp3",
       "packPath": "packs/{id}/{bitrate}/{s3}.zip",
-      "totalBytes": 800903722,
+      "totalBytes": 800855871,
       "imagePath": "images/ahmed_khalil_shaheen.jpeg",
       "surahs": [
         {
@@ -53,8 +53,8 @@
         {
           "n": 6,
           "ayahs": 165,
-          "bytes": 34705095,
-          "sha256": "ba6534ab3a2a82da84cdf3e8d1ccf6f08f2f50b35d923f0ccce41a2fd8f66f52",
+          "bytes": 34696111,
+          "sha256": "2cb20db03667d6efde50bd27b543ba17397efcb7efe00650c9d08a5a3c5a17fe",
           "hasBasmala": true
         },
         {
@@ -74,8 +74,8 @@
         {
           "n": 9,
           "ayahs": 129,
-          "bytes": 24207854,
-          "sha256": "cec09c72084d21a671a4b393f23d962cd8b39cd63e346ccdb1733e70dec92c40",
+          "bytes": 24205974,
+          "sha256": "1b4b38a91c0b85c8fe9dfbab3fd32ef844a97f217b0d409bf0f6bd7969868ed7",
           "hasBasmala": false
         },
         {
@@ -179,8 +179,8 @@
         {
           "n": 24,
           "ayahs": 64,
-          "bytes": 14856002,
-          "sha256": "81ffe9d429313444e392e32b11463b664e3ce72f56f42385dc8a824909cda34b",
+          "bytes": 14846392,
+          "sha256": "5763c0e012f41b1d41d690d06ac9239140fa43e58104694af30690790cdc08d9",
           "hasBasmala": true
         },
         {
@@ -207,8 +207,8 @@
         {
           "n": 28,
           "ayahs": 88,
-          "bytes": 13947374,
-          "sha256": "55270a8ad3e95708f22512e97664c99b62d72d9a178f5e0e7e280a3d3083baa5",
+          "bytes": 13928145,
+          "sha256": "14afb81d46aed9dc514839195b9f00dc04c65c4df25624cc1b18f0b3552d0e66",
           "hasBasmala": true
         },
         {
@@ -305,8 +305,8 @@
         {
           "n": 42,
           "ayahs": 53,
-          "bytes": 8761726,
-          "sha256": "0c6f94961523df20c793329f7a1be101422ad5878ef240ab4421b4fa827a178c",
+          "bytes": 8755667,
+          "sha256": "6a475ae51eb55ceac827cb6e637ddcd82cf18c2f60d93e668fa6ea2b77ebb7d7",
           "hasBasmala": true
         },
         {
@@ -424,8 +424,8 @@
         {
           "n": 59,
           "ayahs": 24,
-          "bytes": 4684490,
-          "sha256": "7c547b7d2555a5e944636d43d333ae83f9cd1942f18254ce28bce36f52b3a551",
+          "bytes": 4682401,
+          "sha256": "a03eea76030831f1edfe3297a38f15a5793bd06595df8c0f12bcc9d7d183587e",
           "hasBasmala": true
         },
         {
