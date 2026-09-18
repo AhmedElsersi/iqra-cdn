@@ -12,7 +12,7 @@
       "version": "1",
       "audioPath": "audio/{id}/{bitrate}/{s3}{a3}.mp3",
       "packPath": "packs/{id}/{bitrate}/{s3}.zip",
-      "totalBytes": 21542127,
+      "totalBytes": 83586012,
       "surahs": [
         {
           "n": 1,
@@ -20,6 +20,13 @@
           "bytes": 571930,
           "sha256": "da61bfe2e1c2f7601a855483b88357181ddcf17d8e27114164aa1cabbcaa43dd",
           "hasBasmala": false
+        },
+        {
+          "n": 2,
+          "ayahs": 286,
+          "bytes": 62043885,
+          "sha256": "b6e2a2c183011087b485d8ce49a2d4da3f4f5f4b87892c8dce5907b05a4122a5",
+          "hasBasmala": true
         },
         {
           "n": 58,
