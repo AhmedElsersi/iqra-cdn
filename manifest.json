@@ -9,10 +9,10 @@
       "nameEn": "Ahmed Khalil Shaheen",
       "riwayah": "",
       "bitrate": 64,
-      "version": "2",
+      "version": "3",
       "audioPath": "audio/{id}/{bitrate}/{s3}{a3}.mp3",
       "packPath": "packs/{id}/{bitrate}/{s3}.zip",
-      "totalBytes": 818351391,
+      "totalBytes": 818829163,
       "imagePath": "images/ahmed_khalil_shaheen.jpeg",
       "surahs": [
         {
@@ -179,8 +179,8 @@
         {
           "n": 24,
           "ayahs": 64,
-          "bytes": 14846392,
-          "sha256": "5763c0e012f41b1d41d690d06ac9239140fa43e58104694af30690790cdc08d9",
+          "bytes": 15324164,
+          "sha256": "717aabfc9c456ae89a087aa501571a30bb68f46c80df6faa35e2a81fd0c4afaa",
           "hasBasmala": true
         },
         {
