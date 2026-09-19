@@ -9,7 +9,7 @@
       "nameEn": "Ahmed Khalil Shaheen",
       "riwayah": "",
       "bitrate": 64,
-      "version": "3",
+      "version": "4",
       "audioPath": "audio/{id}/{bitrate}/{s3}{a3}.mp3",
       "packPath": "packs/{id}/{bitrate}/{s3}.zip",
       "totalBytes": 819463148,
