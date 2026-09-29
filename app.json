@@ -13,8 +13,8 @@
       "ar": "Ahmed Elsersi",
       "en": "Ahmed Elsersi"
     },
-    "email": "ahmed.elsersi3@gmail.com",
     "photo": "",
+    "email": "ahmed.elsersi3@gmail.com",
     "github": "https://github.com/ahmedelsersi",
     "linkedin": "",
     "whatsapp": "",
@@ -22,8 +22,8 @@
   },
   "update": {
     "android": {
-      "min": "",
-      "latest": "",
+      "min": "1.1.0",
+      "latest": "1.1.0",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.mirqat.app"
     },
     "ios": {
