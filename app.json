@@ -23,17 +23,37 @@
   "update": {
     "android": {
       "min": "1.1.0",
+      "minBuild": null,
       "latest": "1.1.0",
+      "latestBuild": null,
+      "force": false,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.mirqat.app"
     },
     "ios": {
       "min": "",
+      "minBuild": null,
       "latest": "",
+      "latestBuild": null,
+      "force": false,
       "storeUrl": ""
     },
     "notes": {
       "ar": "",
       "en": ""
-    }
+    },
+    "remindAfterDays": 1
+  },
+  "maintenance": {
+    "enabled": false,
+    "title": {
+      "ar": "",
+      "en": ""
+    },
+    "message": {
+      "ar": "",
+      "en": ""
+    },
+    "platforms": [],
+    "until": ""
   }
 }
