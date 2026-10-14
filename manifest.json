@@ -593,13 +593,20 @@
       "version": "1",
       "audioPath": "audio/{id}/{bitrate}/{s3}{a3}.mp3",
       "packPath": "packs/{id}/{bitrate}/{s3}.zip",
-      "totalBytes": 1314364,
+      "totalBytes": 6427939,
       "nameAr": "أحمد العجمي",
       "nameEn": "Ahmed Al-Ajmi",
       "riwayah": "حفص عن عاصم",
       "bitrate": 64,
       "imagePath": "images/ahmed_elajami.jpeg",
       "surahs": [
+        {
+          "n": 58,
+          "ayahs": 22,
+          "bytes": 5113575,
+          "sha256": "8e95b49d27cc53e95a898b1a9925df5b161b46285056a6e327dd1b244afaccd4",
+          "hasBasmala": true
+        },
         {
           "n": 89,
           "ayahs": 30,
