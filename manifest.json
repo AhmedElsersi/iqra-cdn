@@ -593,7 +593,7 @@
       "version": "1",
       "audioPath": "audio/{id}/{bitrate}/{s3}{a3}.mp3",
       "packPath": "packs/{id}/{bitrate}/{s3}.zip",
-      "totalBytes": 709667496,
+      "totalBytes": 711800178,
       "nameAr": "أحمد العجمي",
       "nameEn": "Ahmed Al-Ajmi",
       "riwayah": "حفص عن عاصم",
@@ -1088,6 +1088,13 @@
           "ayahs": 31,
           "bytes": 3278297,
           "sha256": "61139b0a2aa4ab8bb80dfdef27c9904b2dcc680bccb8d535b758e1be2b174ded",
+          "hasBasmala": true
+        },
+        {
+          "n": 77,
+          "ayahs": 50,
+          "bytes": 2132682,
+          "sha256": "329db8c3f92963af44362ba820b0ff26bf07c0f861df6fa368c7e2fe97e6462b",
           "hasBasmala": true
         },
         {
