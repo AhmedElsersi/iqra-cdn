@@ -593,13 +593,139 @@
       "version": "1",
       "audioPath": "audio/{id}/{bitrate}/{s3}{a3}.mp3",
       "packPath": "packs/{id}/{bitrate}/{s3}.zip",
-      "totalBytes": 6427939,
+      "totalBytes": 374698831,
       "nameAr": "أحمد العجمي",
       "nameEn": "Ahmed Al-Ajmi",
       "riwayah": "حفص عن عاصم",
       "bitrate": 64,
       "imagePath": "images/ahmed_elajami.jpeg",
       "surahs": [
+        {
+          "n": 1,
+          "ayahs": 7,
+          "bytes": 339663,
+          "sha256": "46a9f5b00ed1de3610461370e21fc2a7cddb419b307a87cc16597c00f6dcd076",
+          "hasBasmala": false
+        },
+        {
+          "n": 2,
+          "ayahs": 286,
+          "bytes": 53869286,
+          "sha256": "cd413f31c9e646e868ad00275b1e18367d712cac16ddca58eb384d815bf29912",
+          "hasBasmala": true
+        },
+        {
+          "n": 3,
+          "ayahs": 200,
+          "bytes": 34666146,
+          "sha256": "42a5044a553cd0fb0f056f33cd236f20d4b0dc4d0ebe63eddc2dc2b8e9f435ea",
+          "hasBasmala": true
+        },
+        {
+          "n": 4,
+          "ayahs": 176,
+          "bytes": 38649858,
+          "sha256": "8dfa538f6313b53f85f02d8fbb54a9b681ee480520a89298b61444da99ad8e97",
+          "hasBasmala": true
+        },
+        {
+          "n": 5,
+          "ayahs": 120,
+          "bytes": 25757860,
+          "sha256": "478c3c5f46c0c5e3755da4e40d575de531df25efc479c6338a2a4f2f7da1135e",
+          "hasBasmala": true
+        },
+        {
+          "n": 6,
+          "ayahs": 165,
+          "bytes": 27695866,
+          "sha256": "7c4227314709425bd8653f40c8d2ec02312721de583cdf832035ef0a4a40262f",
+          "hasBasmala": true
+        },
+        {
+          "n": 7,
+          "ayahs": 206,
+          "bytes": 29054536,
+          "sha256": "b090ddc17e21a355fa90350e2bb036254fcd7389b57490ee923cad6403568c65",
+          "hasBasmala": true
+        },
+        {
+          "n": 9,
+          "ayahs": 129,
+          "bytes": 23174918,
+          "sha256": "adc9567d66296cb0a6947c664fd4607836be5baab803fe8732b36ab0702af9ec",
+          "hasBasmala": false
+        },
+        {
+          "n": 10,
+          "ayahs": 109,
+          "bytes": 17490146,
+          "sha256": "f104374d582eccc5ad5cd8fe8668ac30cc69b895642e5bc31c795bde0ae295cc",
+          "hasBasmala": true
+        },
+        {
+          "n": 11,
+          "ayahs": 123,
+          "bytes": 18321997,
+          "sha256": "26045eaea9c298bda15bf70d0b0c2270c5b707303c027c7c1fea00d1a068ce14",
+          "hasBasmala": true
+        },
+        {
+          "n": 12,
+          "ayahs": 111,
+          "bytes": 17252986,
+          "sha256": "ed778450d38d4521a0205d4c469b8d0ad046762e7ceda018b9221d575cf007f3",
+          "hasBasmala": true
+        },
+        {
+          "n": 13,
+          "ayahs": 43,
+          "bytes": 8213132,
+          "sha256": "1e6b32c393bdb73f1a3b04d34ef8e3c07eb729a451c3b8438b26a1c407c839c3",
+          "hasBasmala": true
+        },
+        {
+          "n": 15,
+          "ayahs": 99,
+          "bytes": 8247223,
+          "sha256": "e56eff22901b95aca2e6a4445eeada10f211bbcdd81940e6552a67865a0f1c10",
+          "hasBasmala": true
+        },
+        {
+          "n": 16,
+          "ayahs": 128,
+          "bytes": 18351624,
+          "sha256": "649a7624353edc60342924a1a49e44c2655df9f067ea539b84a41c9855419cba",
+          "hasBasmala": true
+        },
+        {
+          "n": 17,
+          "ayahs": 111,
+          "bytes": 13373925,
+          "sha256": "a0cda2adde4fc490ed60c7a71ea1091a83248682d11cced666201046a732c2a0",
+          "hasBasmala": true
+        },
+        {
+          "n": 18,
+          "ayahs": 110,
+          "bytes": 13069734,
+          "sha256": "c25dc274eca2496904a86e8534dc69aba5500488054c61c9fd829ba83c4ec375",
+          "hasBasmala": true
+        },
+        {
+          "n": 19,
+          "ayahs": 98,
+          "bytes": 8871633,
+          "sha256": "4ae86835684165619cbcff9ff49d68a8be7275cb203e79021a590b389e92c586",
+          "hasBasmala": true
+        },
+        {
+          "n": 21,
+          "ayahs": 112,
+          "bytes": 11870359,
+          "sha256": "3fe30c87704626928ed35c97a477aecbe0dfadbc065352757afb26f818b84ca0",
+          "hasBasmala": true
+        },
         {
           "n": 58,
           "ayahs": 22,
